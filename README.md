@@ -1,11 +1,11 @@
 # codepath-ios101-prework-2023
 Featuring my app idea for iOS development to benefit digital nomadic Christians
 
-# Prework - Marka Marka
+# Prework - GoChurch
 
 Submitted by: Mark Shinyoung Lee
 
-Marka Marka is an app that tells the time your friends are free.
+GoChurch is an app that allows you to filter open churches and learn about events going on in them.
 
 Time spent: 3 hours spent in total
 
