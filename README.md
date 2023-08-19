@@ -4,7 +4,7 @@ Submitted by: Mark Shinyoung Lee
 
 GoChurch is an app that allows you to filter open churches and learn about events going on in them.
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -16,8 +16,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<!-- Bare bone feature recording: https://imgur.com/a/LEvHi6T -->
+<img src='![](https://imgur.com/a/GYXVvI3.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='![](https://imgur.com/a/xGwb6Ft) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+NOTE: for mysterious reason, changing color in the screen gets automatically flagged as adult content. So please click the link below instead.
+<a href="https://imgur.com/a/GYXVvI3.gif">Please click here</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
